@@ -1,0 +1,22 @@
+#amarillo{
+    background-color: yellow;
+}
+
+#azul{
+    background-color: blue;
+}
+
+#rojo{
+    background-color: red;
+}
+table{
+    
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px black solid;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
